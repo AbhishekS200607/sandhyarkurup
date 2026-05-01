@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://abhisheks200607.github.io/sandhyarkurup/sitemap.xml
+Sitemap: https://www.sandhyarkurup.online/sitemap.xml
